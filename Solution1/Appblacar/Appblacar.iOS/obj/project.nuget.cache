@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i9FlRnDLPNE7bOV4ZbbPYr2o0Rrw6a9m/yHLwcwI6LqNGAkPio0GZH80Kiri8fD+72mQbVdHDuOiE72lbWWHEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO THINKPAD\\Downloads\\extra\\blacar2-master\\Solution1\\Appblacar\\Appblacar.iOS\\Appblacar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}

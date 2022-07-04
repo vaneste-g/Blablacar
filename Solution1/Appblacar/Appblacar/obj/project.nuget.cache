@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5K2IvrC3dOK3bHzSkcpGOHk3DKIbPL2rtr5lCeG4h7S1SrLRqGmeFW1hYTZPKj7qatDWH69JKsEwXw4zETv+7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO THINKPAD\\Downloads\\extra\\blacar2-master\\Solution1\\Appblacar\\Appblacar\\Appblacar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}
